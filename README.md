@@ -11,13 +11,12 @@ Five numbers entered via the keyboard.
 A window graphic user interface that shows the selected numbers, the winning numbers, and the matched number or numbers (if any)
 
 ## Key Steps
-1. The user keys five prefered numbers (input), and click the Spin button.
-2. jLotto will generate the random numbers with the zero filling method, and records all the numbers and any wining round in the text file.
-3. The use can check the number history by clicking the Check button.
+1. Type five prefered numbers, and click the Spin button.
+2. jLotto will generate the random numbers, with the zero filling method, and records all the numbers with any wining results in the text file.
+3. Check the statistics by clicking the Check button.
 
 ## Algorithms & Source Code
 See https://raw.githubusercontent.com/Kietpawpan/jLotto/main/jLotto.pyw
 
 ## Programmers
-Monte Kietpawpan, Ph.D.
-jTech Programmer 
+Monte Kietpawpan, jTech Programmer 
