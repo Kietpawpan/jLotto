@@ -1,14 +1,14 @@
 # jLotto
-The jLotto is a digital lottery machine (Lotto AI), which randomly generates five winning numbers per round: four 3-digit numbers and a 2-digit number (e.g., 245 657 009 981 54). Each round, the user selects five numbers to play (any 2- or 3-digit numbers). Then, click the Spin button; the AI will generate the winning numbers, record them in the text file, and give an extra note if the user's number(s) match any of the wining numbers.
+The jLotto is a digital lottery machine which randomly generates five winning numbers a round: four 3-digit numbers and a 2-digit number (e.g., 245 657 009 981 54). Each round the user chooses five numbers to play (any 2- or 3-digit numbers), and then click the Spin button; jLotto will generate the winning numbers, record them in the text file, and give a note only if the chosen number(s) matches any of the wining numbers.
 
 ## Goal
-To serve as a lotto game, making people realize how hard or how easy it is for them to win the lottery of this format.
+To make people realize how hard it is to win a prize in this lottery format.
 
 ## Input
-Five numbers from keyboard input
+Five numbers entered via the keyboard.
 
 ## Output
-GUI showing the selected numbers, the winning numbers, and the matched number(s).
+A window graphic user interface that shows the selected numbers, the winning numbers, and the matched number or numbers (if any)
 
 ## Key Steps
 1. The user keys five prefered numbers (input), and click the Spin button.
@@ -17,3 +17,7 @@ GUI showing the selected numbers, the winning numbers, and the matched number(s)
 
 ## Algorithms & Source Code
 See https://raw.githubusercontent.com/Kietpawpan/jLotto/main/jLotto.pyw
+
+## Programmers
+Monte Kietpawpan, Ph.D.
+jTech Programmer 
