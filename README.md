@@ -16,3 +16,4 @@ GUI showing the selected numbers, the winning numbers, and the matched number(s)
 3. The use can check the number history by clicking the Check button.
 
 ## Algorithms & Source Code
+See https://raw.githubusercontent.com/Kietpawpan/jLotto/main/jLotto.pyw
